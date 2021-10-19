@@ -1,0 +1,112 @@
+
+
+.container{
+    background-color:  	#000000;
+}
+.Topo{
+    margin-top:  5%;
+    color:#DCDCDC;
+}
+
+.formulario{
+    background-color:  	#DCDCDC;
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto; 
+    margin-bottom:-1px;
+    border-radius: 15px;
+
+}
+.form-group{
+    max-width:30%; 
+    margin-left: 10px;
+    margin-top: 10%;
+}
+
+.form-group .informacoesCadastro{
+    margin-top: -40px;
+    margin-left: 10%;
+
+}
+.form-group .informacoesPessoais  {
+    width: 200%;
+    max-width:130%;  
+    margin-top: -292px;
+    margin-left: 170%;
+}
+.form-login .form-titulo{
+    background: url(imagem/usuario.png) no-repeat right;
+    background-color:  	#000000;
+
+}
+
+
+.form-login .form-control{
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+}
+
+.form-login .form-control:focus{
+    background: url(imagem/usuario.png) no-repeat right;
+    z-index:  2;
+}
+
+form-login input[type="usuario"]{
+    margin-bottom:-1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+form-login input[type="senha"]{
+
+    margin-bottom:-1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+
+
+.alerta{
+    color:#FF6347;
+}
+.LinkEsqueciSenha{
+    display: inline-block;
+    color:#87CEFF;
+    text-align: justify;
+    width: 240px;
+
+
+}
+.LinkNaoCadastro{
+
+    color:#87CEFF;
+    text-align: left;
+    display: inline-block;
+}
+
+
+
+
+.modal-body{ 
+  
+      background:#F8F8FF; 
+  
+} 
+.modal-content{ 
+  
+      background:#d9edf7; 
+  
+} 
+
+.modal-header{ 
+  
+      background:#d9edf7; 
+  
+} 
+
+
